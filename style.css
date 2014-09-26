@@ -17,7 +17,7 @@ ul {
 
 ul li {
   -webkit-transition: 0.4s ease-in-out;
-  -o-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
   display: inline-block;
   background: rgb(150,60,25);
